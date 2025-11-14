@@ -5,6 +5,7 @@ This project focuses on cleaning raw data, handling missing values, encoding cat
 ## 🚀 Project Overview
 This project demonstrates a practical data preprocessing pipeline commonly used in Machine Learning and Data Science workflows.
 It turns raw structured data into a clean, validated, and well-organized dataset suitable for training ML models.
+
 Key steps include:
 Loading and inspecting the dataset
 Handling missing and inconsistent values
