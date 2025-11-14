@@ -7,12 +7,21 @@ This project demonstrates a practical data preprocessing pipeline commonly used 
 It turns raw structured data into a clean, validated, and well-organized dataset suitable for training ML models.
 
 Key steps include:
+
 Loading and inspecting the dataset
+
 Handling missing and inconsistent values
+
 Converting data types
+
 Detecting and removing outliers
+
 Normalizing and scaling numerical values
+
 Encoding categorical variables
+
 Exploratory Data Analysis (EDA)
+
 Visualizing key insights
+
 Exporting processed data for modeling
