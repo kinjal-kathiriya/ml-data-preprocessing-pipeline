@@ -8,20 +8,20 @@ It turns raw structured data into a clean, validated, and well-organized dataset
 
 Key steps include:
 
-Loading and inspecting the dataset
+- Loading and inspecting the dataset
 
-Handling missing and inconsistent values
+- Handling missing and inconsistent values
 
-Converting data types
+- Converting data types
 
-Detecting and removing outliers
+- Detecting and removing outliers
 
-Normalizing and scaling numerical values
+- Normalizing and scaling numerical values
 
-Encoding categorical variables
+- Encoding categorical variables
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-Visualizing key insights
+- Visualizing key insights
 
-Exporting processed data for modeling
+- Exporting processed data for modeling
